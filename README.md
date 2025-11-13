@@ -7,7 +7,7 @@ A simple, terminal-based cryptocurrency dashboard built with Python. Get real-ti
 - Fetches real-time cryptocurrency prices using the **CoinGecko API**.  
 - Displays 24-hour price changes with **colored arrows** (green ▲ for gains, red ▼ for losses).  
 - Supports multiple cryptocurrencies simultaneously.  
-- Lightweight and runs entirely in the terminal—no web interface required.  
+- Lightweight and runs entirely in the terminal, no web interface required.  
 
 ## Requirements
 
