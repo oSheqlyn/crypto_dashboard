@@ -1,6 +1,6 @@
 # Crypto Dashboard CLI 🪙
 
-A simple, terminal-based cryptocurrency dashboard built with Python. Get real-time crypto prices, 24-hour changes, and visual indicators for price movements—all in your command line!  
+A simple, terminal-based cryptocurrency dashboard built with Python. Get real-time crypto prices, 24-hour changes, and visual indicators for price movements all in your command line!  
 
 ## Features
 
